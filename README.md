@@ -76,4 +76,4 @@ docker compose up -d --build
 ```
 
 ---
-
+![Desenho de arquitetura do projeto](desenho.png)
